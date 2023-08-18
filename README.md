@@ -5,7 +5,7 @@ Jimmy Butler Fan Page
 
 ## GitHub Pages Link
 
-https://jimbo.github.io/
+https://robertosk77.github.io/jimbo/
 
 
 ## Contributors
